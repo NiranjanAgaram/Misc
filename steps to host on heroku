@@ -1,0 +1,19 @@
+Steps to host your DC bot on Heroku:
+
+Create an account on Heroku.
+
+  Install the Heroku CLI (Command Line Interface) on your local machine.
+
+  Log in to your Heroku account using the CLI.
+
+  Create a new app on Heroku, this will create a new remote repository.
+
+  Commit your code to the newly created repository, you can use git to do that.
+
+  Configure the environment variables, this includes your bot token, it's important to keep the token private.
+
+  Deploy the code to Heroku by pushing the code to the remote repository.
+
+  Scale the app, you can use the Heroku CLI or the web interface to do that.
+
+Your bot should be up and running now.
